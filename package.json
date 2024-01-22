@@ -14,7 +14,7 @@
   "author": "",
   "license": "WTFPL",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.39"
+    "vitepress": "1.0.0-rc.40"
   },
   "pnpm": {
     "peerDependencyRules": {
