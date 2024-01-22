@@ -113,3 +113,5 @@ docs/.vitepress/cache
 
 # Inject JavaScript
 .github/inject.js
+
+pnpm-lock.yaml
