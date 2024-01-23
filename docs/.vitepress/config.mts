@@ -78,12 +78,16 @@ export default defineConfig({
                 link: '/玩法/fish/intro'
               },
               {
-                text: '🔨 创建领地',
-                link: '/玩法/fish/create'
+                text: '🏁 钓鱼比赛',
+                link: '/玩法/fish/competition'
               },
               {
-                text: '⚙ 设置领地权限',
-                link: '/玩法/fish/set'
+                text: '🍷 稀有度等级',
+                link: '/玩法/fish/grade'
+              },
+              {
+                text: '🐟 鱼的种类',
+                link: '/玩法/fish/type'
               }
             ]
           },
