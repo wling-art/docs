@@ -1,12 +1,11 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: '钟乐服务器文档'
+  name: '钟乐 Wiki'
   tagline: 感谢每一位玩家的到来💡
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: Logo
   actions:
     - theme: brand

@@ -14,7 +14,7 @@ export default defineConfig({
     hostname: 'https://zl.liuzhen932.top'
   },
   themeConfig: {
-    logo: { src: '/logo.png', width: 24, height: 24 },
+    logo: { src: '/logo.svg', width: 28, height: 28 },
     nav: [
       { text: '主页', link: '/' },
       { text: '百科', link: '/intro' },
@@ -29,27 +29,23 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '文档介绍',
+        text: '👋 文档介绍',
         link: '/intro'
-
       },
       {
-        text: '常见问题',
+        text: '❓ 常见问题',
         link: '/issues'
-
       },
       {
-        text: '服务器介绍',
+        text: '📘 服务器介绍',
         link: '/server-intro'
-
       },
       {
         text: '入门',
         items: [
           { text: '🔦 一个正确的游戏名', link: '/入门/username' },
           { text: '🎓 我该如何进入服务器', link: '/入门/how2join' },
-          { text: '🧳 注册与登录', link: '/入门/register-and-login' },
-          
+          { text: '🧳 注册与登录', link: '/入门/register-and-login' }
         ]
       },
       {
@@ -75,6 +71,22 @@ export default defineConfig({
           { text: '🌀 粘液科技(Slimefun 4)', link: '/玩法/slimefun4' },
           { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
           { text: '💵 全球市场', link: '/玩法/ah' },
+          { text: '🐟 更多的鱼',
+            items: [
+              {
+                text: '🎣 玩法简介',
+                link: '/玩法/fish/intro'
+              },
+              {
+                text: '🔨 创建领地',
+                link: '/玩法/fish/create'
+              },
+              {
+                text: '⚙ 设置领地权限',
+                link: '/玩法/fish/set'
+              }
+            ]
+          },
           { text: '🔒 领地',
             items: [
               {
