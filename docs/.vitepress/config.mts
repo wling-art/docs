@@ -69,8 +69,6 @@ export default defineConfig({
           { text: '🎗 箱子锁', link: '/玩法/lock' },
           { text: '✏ 阶级', link: '/玩法/class' },
           { text: '🌀 粘液科技(Slimefun 4)', link: '/玩法/slimefun4' },
-          { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
-          { text: '💵 全球市场', link: '/玩法/ah' },
           { text: '🐟 更多的鱼',
             items: [
               {
@@ -110,7 +108,10 @@ export default defineConfig({
                 link: '/玩法/res/delete'
               }
             ]
-         }
+         },
+         { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
+         { text: '💵 全球市场', link: '/玩法/ah' },
+         { text: '🎄 季节', link: '/玩法/season' }
         ]
       },
       {
@@ -157,6 +158,13 @@ export default defineConfig({
     image: {
       // 图片懒加载
       lazyLoading: true
+    },
+    container: {
+      tipLabel: '提示',
+      warningLabel: '警告',
+      dangerLabel: '危险',
+      infoLabel: '信息',
+      detailsLabel: '详细信息'
     }
   }
 })
