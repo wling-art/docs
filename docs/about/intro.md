@@ -12,6 +12,14 @@ next: false
 
 > “关山万里远征人, 一望关山泪满巾”
 
+## 玩家们是这样评价钟乐的
+
+好评如潮
+
+- huiboyan: 唯有粘液科技是值得宝贵的，唯有他发扬起来，基地才有真进步
+- liuzhen932: 钟乐服务器是我又发现的一个宝藏服务器
+- huiboyan: 横眉冷对管理员，俯首甘为冒险家
+
 # 关于本 Wiki
 
 本 Wiki 由服主 [wlingzhenyu](https://github.com/wling-art) 发起编写, 由玩家 liuzhen932 于 2024年1月21日 至 2024年1月23日 使用 [VitePress](https://vitepress.dev) 重构
