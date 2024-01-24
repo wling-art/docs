@@ -4,3 +4,6 @@
 
 /season/*
   cache-control: max-age=86400
+
+/hero/*
+  cache-control: max-age=86400

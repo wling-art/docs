@@ -33,5 +33,5 @@ features:
 <div align='center' style='font-size: 24px;'>
   <p>服务器画廊</p>
   <br />
-  <img src='/p.webp' alt='服务器一角' width='600' />&nbsp;<img src='/1.jpg' alt='资源世界一角' title='资源世界图1' width='600' />&nbsp;<img src='/2.jpg' alt='资源世界一角' title='资源世界图2' width='600' />
+  <img src='/hero/p.webp' alt='服务器一角' width='600' />&nbsp;<img src='/hero/1.jpg' alt='资源世界一角' title='资源世界图1' width='600' />&nbsp;<img src='/hero/2.jpg' alt='资源世界一角' title='资源世界图2' width='600' />
 </div>
