@@ -19,8 +19,9 @@ export default defineConfig({
       { text: '主页', link: '/' },
       { text: '百科', link: '/intro' },
       { text: '博客', link: '/blog/index' },
-      { text: '关于',
-          items: [
+      {
+        text: '关于',
+        items: [
           { text: '关于我们', link: '/about/intro' },
           { text: '认识成员', link: '/about/team' },
           { text: '联系我们', link: '/about/contact' }
@@ -69,7 +70,8 @@ export default defineConfig({
           { text: '🎗 箱子锁', link: '/玩法/lock' },
           { text: '✏ 阶级', link: '/玩法/class' },
           { text: '🌀 粘液科技(Slimefun 4)', link: '/玩法/slimefun4' },
-          { text: '🐟 更多的鱼',
+          {
+            text: '🐟 更多的鱼',
             items: [
               {
                 text: '🎣 玩法简介',
@@ -89,7 +91,8 @@ export default defineConfig({
               }
             ]
           },
-          { text: '🔒 领地',
+          {
+            text: '🔒 领地',
             items: [
               {
                 text: '🔒 简介',
@@ -108,10 +111,22 @@ export default defineConfig({
                 link: '/玩法/res/delete'
               }
             ]
-         },
-         { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
-         { text: '💵 全球市场', link: '/玩法/ah' },
-         { text: '🎄 季节', link: '/玩法/season' }
+          },
+          {
+            text: '🎄 季节',
+            items: [
+              {
+                text: '🎄 玩法简介',
+                link: '/玩法/season/intro'
+              },
+              {
+                text: '💓 温度系统',
+                link: '/玩法/season/temp'
+              }
+            ]
+          },
+          { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
+          { text: '💵 全球市场', link: '/玩法/ah' }
         ]
       },
       {
@@ -155,6 +170,9 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式'
   },
   markdown: {
+    // @mdit-vue/plugin-toc 的选项
+    // https://github.com/mdit-vue/mdit-vue/tree/main/packages/plugin-toc#options
+    toc: { level: [1, 2, 3] },
     image: {
       // 图片懒加载
       lazyLoading: true
