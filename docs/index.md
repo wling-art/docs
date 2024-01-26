@@ -38,6 +38,7 @@ features:
   <img src='/season/fall_0.png' title='服务器-玩法-季节-秋季' width='1080' />
   <img src='/season/winter_0.png' title='服务器-玩法-季节-冬季' width='1080' />
   <img src='/hero/p.webp' alt='服务器一角' title='服务器-主城' width='1080' />
+  <img src='/hero/3.png' alt='服务器一角' title='服务器-海棠家' width='1080' />
   <img src='/hero/1.jpg' alt='资源世界一角' title='服务器-资源世界' width='1080' />
   <img src='/hero/2.jpg' alt='资源世界一角' title='服务器-资源世界' width='1080' />
 </div>

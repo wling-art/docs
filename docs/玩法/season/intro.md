@@ -17,9 +17,9 @@
 
 ### 春季画廊
 
-![图片](/season/spring_0.png)
+![图片0](/season/spring_0.png)
 
-![图片](/season/spring_1.png)
+![图片1](/season/spring_1.png)
 
 ## 夏季
 
@@ -36,7 +36,7 @@
 
 ### 夏季画廊
 
-![图片](/season/summer_0.png)
+![图片0](/season/summer_0.png)
 
 ## 秋季
 
@@ -45,15 +45,14 @@
 ### 秋季特点
 
 - 平均气温 5°C-25°C
-- 日夜时长 白天比夜间短
-- 白天生物 狐狸、驼鹿、青蛙、蝙蝠和洞穴蜘蛛 
-- 夜间生物 萤火虫(Fireflies)
+- 日夜时长 几乎相等
+- 白天生物 狐狸、驼鹿、青蛙、蝙蝠和洞穴蜘蛛
 
 头上戴着南瓜的敌对生物(Mobs)有 20% 的几率生成，夏季产生的浆果灌木将会被移除。夜间蝙蝠会在地面上生成，有时甚至会发现洞穴蜘蛛！
 
 ### 秋季画廊
 
-![图片](/season/fall_0.png)
+![图片0](/season/fall_0.png)
 
 
 ## 冬季
@@ -63,16 +62,21 @@
 ### 冬季特点
 
 - 平均气温 -0°C-5°C
-- 日夜时长 白天比夜间长
+- 日夜时长 白天比夜间短
 - 白天生物 北极熊
-- 夜间生物 萤火虫(Fireflies)
 
 如果气温 <0°C ，玩家的呼吸就会变得清晰可见(仅别人可见)。夜晚有 20% 的概率天空出现星火(Spark)，效果会持续一整晚，它会吹走玩家！
 
 ### 冬季画廊
 
-![图片](/season/winter_0.png)
+![图片0](/season/winter_0.png)
 
-![图片](/season/winter_1.png)
+![图片1](/season/winter_1.png)
 
-![图片](/season/winter_2.png)
+![图片2](/season/winter_2.png)
+
+**星火(Spark)效果图**(真的很美!)
+
+![星火0](/season/winter-spark-0.png)
+
+![星火1](/season/winter-spark-1.png)
