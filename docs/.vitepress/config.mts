@@ -10,6 +10,7 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   ignoreDeadLinks: true,
+  cleanUrls: true,
   sitemap: {
     hostname: 'https://zl.liuzhen932.top'
   },
