@@ -26,18 +26,3 @@ features:
     icon: ✨
     details: 感谢您选择加入我们的游戏社区, 我们希望这个 Wiki 能够为您的游戏之旅增添乐趣和便利! 
 ---
-
-<br />
-<div align='center' style='font-size: 24px;'>
-  <b>↓↓↓</b>
-  <br />
-  <p>服务器画廊</p>
-  <br />
-  <img src='/season/spring_0.png' title='服务器-玩法-季节-春季' width='1080' />
-  <!-- <img src='/season/summer_0.png' title='服务器-玩法-季节-夏季' width='1080' /> -->
-  <!-- <img src='/season/fall_0.png' title='服务器-玩法-季节-秋季' width='1080' /> -->
-  <img src='/season/winter_0.png' title='服务器-玩法-季节-冬季' width='1080' />
-  <img src='/hero/3.png' alt='服务器一角' title='服务器-海棠家' width='1080' />
-  <img src='/hero/1.jpg' alt='资源世界一角' title='服务器-资源世界' width='1080' />
-  <img src='/hero/2.jpg' alt='资源世界一角' title='服务器-资源世界' width='1080' />
-</div>
