@@ -1,14 +1,8 @@
-# robots.txt for ZLServerWiki
-User-agent: Googlebot
-Disallow: 
-User-agent: MSNBot
-Disallow: 
-User-agent: Slurp
-Disallow: 
-User-agent: ia_archiver
-Disallow: 
-User-agent: baiduspider
-Disallow: 
+# robots.txt for ZLWiki
+User-agent: Mediapartners-Google
+Allow: /
 
 User-agent: *
-Disallow: /
+Disallow:
+
+Sitemap: https://zl.liuzhen932.top/sitemap.xml
