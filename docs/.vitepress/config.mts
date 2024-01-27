@@ -139,9 +139,12 @@ export default defineConfig({
         ]
       }
     ],
-
+    editLink: {
+      pattern: 'https://github.com/xiaozhu2007/ZLdocs/edit/master/docs/:path',
+      text: '在 Github 上编辑此页'
+    },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wling-art' }
+      { icon: 'github', link: 'https://github.com/xiaozhu2007/ZLdocs' }
     ],
     search: {
       provider: 'local',
@@ -171,9 +174,6 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式'
   },
   markdown: {
-    // @mdit-vue/plugin-toc 的选项
-    // https://github.com/mdit-vue/mdit-vue/tree/main/packages/plugin-toc#options
-    toc: { level: [1, 2, 3] },
     image: {
       // 图片懒加载
       lazyLoading: true
