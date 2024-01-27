@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # 我对钟乐的评价
 
 **Author:** liuzhen932

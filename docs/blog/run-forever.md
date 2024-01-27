@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # 运行下去! 
 
 **Author:** wling

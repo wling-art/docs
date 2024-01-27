@@ -1,3 +1,7 @@
+---
+editLink: false
+---
+
 # 最佳实践: 控制自己的体温
 
 **Author:** liuzhen932
