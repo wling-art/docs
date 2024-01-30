@@ -46,6 +46,34 @@
 
 ![使用示例](https://oddlama.github.io/vane/assets/gifs/chest-sorting.gif)
 
+## 物品合成
+
+插件添加了相当多的物品以供合成, 这里介绍一些常用的物品合成方式
+
+### 锉子
+
+![锉子](https://github.com/xiaozhu2007/ZLdocs/assets/63779340/0b050f6a-0030-482f-954f-d76be83ee209)
+
+### 瓦刀
+
+如果你不想在建筑时患上重复性压迫损伤, 可以合成这个试一试
+
+![瓦刀](https://github.com/xiaozhu2007/ZLdocs/assets/63779340/e8e79e4b-53a4-4033-973a-d1035ff246f1)
+
+![使用示例](https://oddlama.github.io/vane/assets/gifs/trowel.gif)
+
+### 指北针
+
+永远指向北方, 材料成本低廉
+
+![指北针](https://github.com/xiaozhu2007/ZLdocs/assets/63779340/c76d7159-ae32-4aba-9996-fb1e15e44516)
+
+### 真·背包
+
+![Backpack](https://github.com/xiaozhu2007/ZLdocs/assets/63779340/986e64de-b558-4e71-b4a0-6683387fbcd9)
+
+<!--
 ## 相关链接
 
 [插件官方网站](https://oddlama.github.io/vane/)
+-->
