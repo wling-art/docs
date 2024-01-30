@@ -10,4 +10,4 @@
 
 > 服务器基于原版玩法进行上的修改（也算是纯净服力）, 原版内容你可以在 [Minecraft 中文 Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft\_Wiki) 中找到答案
 >
-> 学会使用 [Minecraft 中文 Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft\_Wiki) 是我们新手到大佬的一段必经之路
+> 学会使用 [Minecraft 中文 Wiki](https://minecraft.fandom.com/zh/wiki/Minecraft\_Wiki) 是您从新手到大佬的一段必经之路
