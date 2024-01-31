@@ -73,6 +73,8 @@ export default defineConfig({
           { text: '🌀 粘液科技(Slimefun 4)', link: '/玩法/slimefun4' },
           { text: '⚔️ 单挑', link: '/玩法/pvp' },
           { text: '🧷 玩家档案', link: '/玩法/player-profile'},
+          { text: '🤽‍♂️ 技能', link: '/玩法/skill'},
+          { text: '💵 全球市场', link: '/玩法/ah' },
           {
             text: '🐟 更多的鱼',
             items: [
@@ -128,8 +130,7 @@ export default defineConfig({
               }
             ]
           },
-          { text: '🦊 Get 一只狐狸', link: '/玩法/fox' },
-          { text: '💵 全球市场', link: '/玩法/ah' }
+          { text: '🦊 Get 一只狐狸', link: '/玩法/fox' }
         ]
       },
       {
