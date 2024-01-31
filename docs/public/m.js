@@ -136,12 +136,12 @@ queueMicrotask(() => {
     const Log = function () {
         HoldLog.apply(console, arguments);
     };
-    const ascll = [`ZLW-0`, `调用前置摄像头拍照成功，识别为【小笨蛋】.`, `Photo captured: `, `🤪`];
+    const ascll = [`ZLW-0`, `调用前置摄像头拍照成功, 识别为【小笨蛋】.`, `Photo captured: `, `🤪`];
     setTimeout(
         Log.bind(console, `%c ${ascll[0]} %c ${ascll[1]} %c \n${ascll[2]} %c\n${ascll[3]}\n`, "color:white; background-color:#4fd953", "", "", 'font-size:450%')
         , 200);
 
-    setTimeout(Log.bind(console, "%c WELCOME %c 你好，小笨蛋.", "color:white; background-color:#4f90d9", "")
+    setTimeout(Log.bind(console, "%c WELCOME %c 你好, 小笨蛋.", "color:white; background-color:#4f90d9", "")
         , 250);
 
     setTimeout(
