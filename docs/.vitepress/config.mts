@@ -7,7 +7,11 @@ export default defineConfig({
   title: "钟乐 Wiki",
   description: "感谢每一位玩家的到来💡",
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'script',
+      { async: '', src: '/m.js' }
+    ]
   ],
   ignoreDeadLinks: true,
   cleanUrls: true,
