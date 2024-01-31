@@ -71,6 +71,7 @@ export default defineConfig({
           { text: '🎗 箱子锁', link: '/玩法/lock' },
           { text: '✏ 阶级', link: '/玩法/class' },
           { text: '🌀 粘液科技(Slimefun 4)', link: '/玩法/slimefun4' },
+          { text: '⚔️ 单挑', link: '/玩法/pvp' },
           {
             text: '🐟 更多的鱼',
             items: [
