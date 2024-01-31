@@ -25,6 +25,8 @@ export default defineConfig({
         items: [
           { text: '关于我们', link: '/about/intro' },
           { text: '认识成员', link: '/about/team' },
+          { text: '隐私政策', link: '/about/privacy-policy' },
+          { text: '免责声明', link: '/about/disclaimers' },
           { text: '联系我们', link: '/about/contact' }
         ]
       },
