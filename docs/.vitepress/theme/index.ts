@@ -3,5 +3,5 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import cursorInit from "./cursor.js";
 
-cursorInit()
-export default DefaultTheme
+
+export default { DefaultTheme, cursorInit };
