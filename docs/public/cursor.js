@@ -91,4 +91,4 @@ class Cursor {
   }
 }
 
-export default cursorInit;
+cursorInit();

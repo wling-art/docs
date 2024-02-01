@@ -1,6 +1,6 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
-import pkg from '../../package.json'
+import pkg from "../../package.json";
 
 export default defineConfig({
   lang: "zh-CN",
@@ -9,6 +9,7 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     ["script", { async: "", src: "/m.js" }],
+    ["script", { async: "", src: "/cursor.js" }],
   ],
   ignoreDeadLinks: true,
   cleanUrls: true,
