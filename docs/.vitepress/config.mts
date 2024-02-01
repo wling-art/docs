@@ -174,7 +174,8 @@ export default defineConfig({
     externalLinkIcon: true, // 展示站外链接箭头 ↗
     // 下方是文档中文适配内容
     footer: {
-      message: `基于 WTFPL 许可发布 | 文档版本 ${pkg.version}`,
+      message: `基于 WTFPL 许可发布 | 文档版本 ${pkg.version}
+<div id="differenceInDays">本站已经稳定运行了 Infinity 天</div>`,
       copyright: `版权所有 © 2023-${new Date().getFullYear()} 钟乐服务器`
     },
     docFooter: {

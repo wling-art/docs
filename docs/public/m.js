@@ -13,10 +13,10 @@ function checkDays() {
     const date = myDate.getDate()
     const key = `${mon}.${date}`
     if (Object.prototype.hasOwnProperty.call(anniversaries, key)) {
-      console.log(`今天是${anniversaries[key]}`)
-      const gray = document.createElement('style')
-      gray.innerHTML = 'html{filter: grayscale(100%)}'
-      document.head.appendChild(gray)
+        console.log(`今天是${anniversaries[key]}`)
+        const gray = document.createElement('style')
+        gray.innerHTML = 'html{filter: grayscale(100%)}'
+        document.head.appendChild(gray)
     }
 }
 setTimeout(
@@ -49,3 +49,27 @@ queueMicrotask(() => {
         Log.bind(console, '%c ZLW-4 %c 你现在正处于监控中.', 'color:white background-color:#d9534f', '')
         , 400)
 })
+
+const siteDateStatistics = (startDate) => {
+    const currentDate = new Date();
+    const differenceInTime = currentDate.getTime() - startDate.getTime();
+    const differenceInDays = differenceInTime / (1000 * 3600 * 24);
+    /*
+    const differenceInMonths = differenceInDays / 30;
+    const differenceInYears = differenceInMonths / 12;
+    if (differenceInYears >= 1) {
+      return `本站已经稳定运行了 ${Math.floor(differenceInYears)} 年 ${Math.floor(
+        differenceInMonths % 12,
+      )} 月 ${Math.round(differenceInDays % 30)} 天`;
+    } else if (differenceInMonths >= 1) {
+      return `本站已经稳定运行了 ${Math.floor(differenceInMonths)} 月 ${Math.round(
+        differenceInDays % 30,
+      )} 天`;
+    } else { 
+    */
+    return `本站已经稳定运行了 ${Math.round(differenceInDays)} 天`;
+    // }
+};
+setTimeout(
+    document.getElementById('differenceInDays').innerText = siteDateStatistics(new Date('2023-11-14'))
+    , 450)
