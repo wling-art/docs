@@ -11,3 +11,4 @@ editLink: false
 - [运行下去](run-forever) - wling - 2023年11月7日
 - [我对钟乐的评价](server-review) - liuzhen932 - 2024年1月26日
 - [最佳实践: 控制自己的体温](best-practice-temperature) - liuzhen932 - 2024年1月27日
+- [最佳实践: 不要假设](best-practice-no-assumptions) - liuzhen932 - 2024年1月31日
