@@ -95,6 +95,7 @@ class Cursor {
         const preference = localStorage.getItem('vitepress-theme-appearance') || 'auto'
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches
         if (!preference || preference === 'auto' ? prefersDark : preference === 'dark'){
+
             this.cursor.classList.add('dark')
             this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='10px' height='10px'><circle cx='4' cy='4' r='4' fill='white' /></svg>") 4 4, auto !important}`;
         }
