@@ -57,7 +57,7 @@ const partners = [
   {
     avatar: 'https://www.github.com/xiaozhu2007.png',
     name: 'liuzhen932',
-    title: '捐赠 1 次, 共 5 元',
+    title: '捐赠 2 次, 共 10 元',
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
