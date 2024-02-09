@@ -62,7 +62,7 @@ const partners = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
     name: '秋叶海棠.',
-    title: '捐赠 2 次, 共 30 元',
+    title: '捐赠 2 次, 共 40 元',
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2544028137&spec=100',
