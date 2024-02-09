@@ -52,7 +52,7 @@ const partners = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=1494482621&spec=100',
     name: '青衣',
-    title: '捐赠 2 次, 共 50 元',
+    title: '捐赠 3 次, 共 80 元',
   },
   {
     avatar: 'https://www.github.com/xiaozhu2007.png',
@@ -62,12 +62,17 @@ const partners = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
     name: '秋叶海棠.',
-    title: '捐赠 1 次, 共 10 元',
+    title: '捐赠 2 次, 共 30 元',
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2544028137&spec=100',
     name: '杨骐鸣',
     title: '捐赠 1 次, 共 5 元'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3629699397&spec=100',
+    name: 'zixi_ovo',
+    title: '捐赠 1 次, 共 25 元'
   }
 ]
 </script>
