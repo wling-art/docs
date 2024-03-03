@@ -65,6 +65,7 @@ export default defineConfig({
       {
         text: '规则',
         items: [
+          { text: '📃 总则', link: '/规则/rules' },
           { text: '📃 服务器规则', link: '/规则/server-rule' },
           { text: '📃 QQ 群规则', link: '/规则/group-rule' }
         ]
