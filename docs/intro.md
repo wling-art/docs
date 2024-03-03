@@ -1,12 +1,6 @@
 # 👋 欢迎来到服务器 Wiki
 > 不看 Wiki 的 罚他不准玩原神一年(
 
-:::warning 关于同步
-本 Wiki 是重构后的版本, 将定期与上游仓库同步, 如果您发现了未同步的部分, 可以**在游戏内**寻找 [liuzhen932](https://zh-cn.namemc.com/profile/liuzhen932.1) 并催促其向上游同步
-
-若 [liuzhen932](https://zh-cn.namemc.com/profile/liuzhen932.1) 不在服务器内, 您仍可通过 [Essential Mod](https://essential.gg) 与其通信
-:::
-
 欢迎来到我们服务器的官方 Wiki 页面! 这里是一个为您提供帮助、指南和有关游戏世界的有用信息的中心。我们致力于为每一位玩家提供一个愉快和充满乐趣的游戏体验, 而这个 Wiki 正是为此而存在的。
 
 ## **为什么选择使用我们服务器的维基百科\?**
