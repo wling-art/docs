@@ -24,7 +24,22 @@ const coreMembers = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3603866430&spec=100',
     name: 'HaiTang_Game',
-    title: '管理员'
+    title: '管理员',
+    links: [
+      { icon: 'github', link: 'https://github.com/haitang000' }
+    ],
+    sponsor: 'https://afdian.net/a/haitang_HTUI',
+    actionText: '捐赠'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=1782654932&spec=100',
+    name: 'liuzhen932',
+    title: '废物',
+    links: [
+      { icon: 'github', link: 'https://github.com/liuzhen9320' }
+    ],
+    sponsor: 'https://afdian.net/a/hackpig520',
+    actionText: '捐赠'
   }
 ]
 
@@ -42,7 +57,7 @@ const partners = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3603866430&spec=100',
     name: 'HaiTang_Game',
-    title: '捐赠 4 次, 共 36 元',
+    title: '捐赠 5 次, 共 46 元',
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3626673715&spec=100',
@@ -57,11 +72,11 @@ const partners = [
   {
     avatar: 'https://www.github.com/xiaozhu2007.png',
     name: 'liuzhen932',
-    title: '捐赠 2 次, 共 10 元',
+    title: '捐赠 3 次, 共 15 元',
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
-    name: '秋叶海棠.',
+    name: '秋叶海棠',
     title: '捐赠 2 次, 共 40 元',
   },
   {
