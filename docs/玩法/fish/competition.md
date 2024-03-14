@@ -6,7 +6,7 @@
 
 ## 比赛类型
 
-### 主要竞赛 - Main Competition: 
+### 主要竞赛 - Main Competition
 
 * 竞赛类型：钓到最大鱼的玩家获胜
 * 持续时间：10 分钟
@@ -18,7 +18,7 @@
 * 不会在星期天进行
 * Bossbar 颜色：绿色
 
-### 周末特殊竞赛 - Weekend Competition: 
+### 周末特殊竞赛 - Weekend Competition
 
 * 竞赛类型：首位钓到特定鱼的玩家获胜
 * 持续时间：60 分钟
