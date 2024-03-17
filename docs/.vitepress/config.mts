@@ -150,7 +150,7 @@ export default defineConfig({
         text: '其他',
         items: [
           { text: '🌍 地图', link: '/其他/map' },
-          { text: '🏭 展示自己', link: '/其他/show' },
+          /* { text: '🏭 展示自己', link: '/其他/show' }, */
           { text: '❤ 支持我们', link: '/其他/support' }
         ]
       }
