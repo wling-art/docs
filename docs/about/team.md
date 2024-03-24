@@ -32,7 +32,7 @@ const coreMembers = [
     actionText: '捐赠'
   },
   {
-    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=1782654932&spec=100',
+    avatar: 'https://github.com/liuzhen9320.png',
     name: 'liuzhen932',
     title: '废物',
     links: [
@@ -70,7 +70,7 @@ const partners = [
     title: '捐赠 3 次，共 80 元',
   },
   {
-    avatar: 'https://www.github.com/xiaozhu2007.png',
+    avatar: 'https://github.com/liuzhen9320.png',
     name: 'liuzhen932',
     title: '捐赠 3 次，共 15 元',
   },
