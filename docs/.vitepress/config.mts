@@ -88,6 +88,7 @@ export default defineConfig({
           { text: '🧷 玩家档案', link: '/玩法/player-profile' },
           { text: '🤽‍♂️ 技能', link: '/玩法/skill' },
           { text: '💵 全球市场', link: '/玩法/ah' },
+          { text: '🏟 银行', link: '/玩法/bank' },
           {
             text: '🐟 更多的鱼',
             items: [
