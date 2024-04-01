@@ -5,4 +5,4 @@ Allow: /
 User-agent: *
 Disallow:
 
-Sitemap: https://zl.liuzhen932.top/sitemap.xml
+Sitemap: https://docs.clock-fun.top/sitemap.xml

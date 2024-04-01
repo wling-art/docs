@@ -22,7 +22,7 @@ export default defineConfig({
   ignoreDeadLinks: true,
   cleanUrls: true,
   sitemap: {
-    hostname: 'https://zl.liuzhen932.top'
+    hostname: 'https://docs.clock-fun.top'
   },
   themeConfig: {
     logo: { src: '/logo.svg', width: 28, height: 28 },
