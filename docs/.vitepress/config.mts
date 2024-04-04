@@ -157,11 +157,11 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/xiaozhu2007/ZLdocs/edit/master/docs/:path',
+      pattern: 'https://github.com/CrashVibe/docs/edit/master/docs/:path',
       text: '在 Github 上编辑此页'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xiaozhu2007/ZLdocs' }
+      { icon: 'github', link: 'https://github.com/CrashVibe/docs' }
     ],
     search: {
       provider: 'local',
