@@ -102,7 +102,8 @@ class Cursor {
     }
 
     checkthemmode() {
-        const preference = localStorage.getItem('vitepress-theme-appearance') || 'auto';
+        const metaTag = document.querySelector('meta[name="color-scheme"]');
+        const preference = metaTag ? metaTag.getAttribute('content') : null;
         const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
         const isDarkMode = !preference || preference === 'auto' ? prefersDark : preference === 'dark';
         const cursorFill = isDarkMode ? 'white' : 'black';
@@ -114,6 +115,7 @@ class Cursor {
             this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='10px' height='10px'><circle cx='4' cy='4' r='4' fill='${cursorFill}' /></svg>") 4 4, auto !important}`;
         }
     }
+
 }
 
 cursorInit();
