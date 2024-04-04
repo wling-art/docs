@@ -60,10 +60,10 @@ queueMicrotask(() => {
         Log.bind(console, `%c ZLW-5 %c ${siteDateStatistics(new Date('2023-11-14'))}.`, 'color:white;background-color:#4f90d9', '')
         , 450)
 
-    setTimeout(
+    /* setTimeout(
         Log.bind(console, `%c 警告 %c 本 Wiki 是重构后的版本，如果您发现了任何错误的部分，可以在游戏内寻找 liuzhen932(https://zh-cn.namemc.com/profile/liuzhen932.1) 或向 Github 仓库提出 Issue
 `, 'color:white;background-color:#660099', '')
-        , 600)
+        , 600) */
     // ZLNetwork
     setTimeout(
         Log.bind(console, `%c ZLNetwork-1 %c 已连接到 ZL 钟乐 网络!`, 'color:white;background-color:#87ceeb', '')
