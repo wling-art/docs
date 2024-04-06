@@ -118,4 +118,16 @@ class Cursor {
 
 }
 
-cursorInit();
+/* 手机版不再显示自定义指针图标 */
+function checkDesktop() {
+    const isMobile = /Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)
+    const isTablet = /iPad/i.test(navigator.userAgent)
+    const isDesktop = !isMobile && !isTablet;
+    return isDesktop;
+}
+
+let isDesktop = checkDesktop()
+
+if (isDesktop) {
+    cursorInit() // 初始化
+}
