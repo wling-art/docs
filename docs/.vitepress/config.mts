@@ -131,6 +131,7 @@ export default defineConfig({
               }
             ]
           },
+/* // 这段内容已被删除
           {
             text: '🎄 季节',
             items: [
@@ -144,6 +145,7 @@ export default defineConfig({
               }
             ]
           },
+*/
           { text: '🦊 Get 一只狐狸', link: '/玩法/fox' }
         ]
       },
