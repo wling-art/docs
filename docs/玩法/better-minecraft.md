@@ -30,7 +30,7 @@
 
 ## 草径加速
 
-你会在草径上跑得更快，墙裂建议建造一些！
+你会在草径上跑得更快，强力建议建造一些！
 
 ![使用示例](https://oddlama.github.io/vane/assets/gifs/grass-paths.gif)
 
