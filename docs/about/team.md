@@ -40,6 +40,21 @@ const coreMembers = [
     ],
     sponsor: 'https://afdian.net/a/hackpig520',
     actionText: '捐赠'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
+    name: 'Linye_FL',
+    title: '建筑与策划'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
+    name: 'xiaohuang112',
+    title: '建筑与理事'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3854665503&spec=100',
+    name: 'Ryan100C',
+    title: '建筑'
   }
 ]
 
