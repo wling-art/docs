@@ -14,7 +14,7 @@ const coreMembers = [
   {
     avatar: 'https://github.com/wling-art.png',
     name: 'wlingzhenyu',
-    title: '服主',
+    title: '服务器组织者',
     links: [
       { icon: 'github', link: 'https://github.com/wling-art' }
     ],
@@ -24,7 +24,7 @@ const coreMembers = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3603866430&spec=100',
     name: 'HaiTang_Game',
-    title: '管理员',
+    title: '界面设计|策划',
     links: [
       { icon: 'github', link: 'https://github.com/haitang000' }
     ],
@@ -34,7 +34,7 @@ const coreMembers = [
   {
     avatar: 'https://github.com/liuzhen9320.png',
     name: 'liuzhen932',
-    title: '废物',
+    title: '运维',
     links: [
       { icon: 'github', link: 'https://github.com/liuzhen9320' }
     ],
@@ -44,12 +44,12 @@ const coreMembers = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
     name: 'Linye_FL',
-    title: '建筑与策划'
+    title: '建筑|策划'
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
     name: 'xiaohuang112',
-    title: '建筑与理事'
+    title: '建筑|理事'
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3854665503&spec=100',
