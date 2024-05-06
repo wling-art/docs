@@ -110,7 +110,7 @@ const partners = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=409423998&spec=100',
     name: 'xiaoyou_0',
-    title: '捐赠 1 次，共 ? 元'
+    title: '捐赠 1 次，共 5 元'
   }
 ]
 </script>
