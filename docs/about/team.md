@@ -44,6 +44,9 @@ const coreMembers = [
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
     name: 'Linye_FL',
+    links: [
+      { icon: 'github', link: 'https://github.com/LinyeFL' }
+    ],
     title: '建筑|策划'
   },
   {
@@ -103,6 +106,11 @@ const partners = [
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3629699397&spec=100',
     name: 'zixi_ovo',
     title: '捐赠 1 次，共 25 元'
+  },
+  {
+    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=409423998&spec=100',
+    name: 'xiaoyou_0',
+    title: '捐赠 1 次，共 ? 元'
   }
 ]
 </script>
