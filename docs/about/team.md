@@ -32,16 +32,6 @@ const coreMembers = [
     actionText: '捐赠'
   },
   {
-    avatar: 'https://github.com/liuzhen9320.png',
-    name: 'liuzhen932',
-    title: '运维',
-    links: [
-      { icon: 'github', link: 'https://github.com/liuzhen9320' }
-    ],
-    sponsor: 'https://afdian.net/a/hackpig520',
-    actionText: '捐赠'
-  },
-  {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
     name: 'Linye_FL',
     links: [
