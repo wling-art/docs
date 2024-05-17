@@ -19,7 +19,7 @@ const coreMembers = [
       { icon: 'github', link: 'https://github.com/wling-art' }
     ],
     sponsor: 'https://afdian.net/a/ZLServer',
-    actionText: '捐赠服主'
+    actionText: '捐赠'
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3603866430&spec=100',
@@ -30,6 +30,16 @@ const coreMembers = [
     ],
     sponsor: 'https://afdian.net/a/haitang_HTUI',
     actionText: '捐赠'
+  },  
+  {
+    avatar: 'https://github.com/liuzhen9320.png',
+    name: 'liuzhen932',
+    title: '运维',
+    links: [
+      { icon: 'github', link: 'https://github.com/liuzhen9320' }
+    ],
+    sponsor: 'https://afdian.net/a/hackpig520',
+    actionText: '捐赠'
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
@@ -37,7 +47,7 @@ const coreMembers = [
     links: [
       { icon: 'github', link: 'https://github.com/LinyeFL' }
     ],
-    title: '建筑|策划'
+    title: '建筑 | 策划'
   },
   {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
