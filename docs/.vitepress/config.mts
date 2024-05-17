@@ -21,6 +21,7 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "百科", link: "/intro" },
+      { text: "更新日志", link: "/update" },
       { text: "博客", link: "/blog/index" },
       {
         text: "关于",
