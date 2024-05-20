@@ -40,8 +40,6 @@
 
 若服务器仍然在线，您可能需要检查您的网络连接，或者前往[服务器官方 QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2pX60vE_kzMkyrFKK7K1C59_0KSuHoSl&authKey=rM2GVXEqz1abk58iuOUaCqq0kUOMMn1sZguc1iQUCB71r62uouYAHOHr%2BvspwgVp&noverify=0&group_code=770813535)向群友求助。
 
-如果您想要更为详细的状态监控，请使用由 [liuzhen932](https://zh-cn.namemc.com/profile/liuzhen932.1) 托管的 [钟乐状态页](https://status.liuzhen932.top/status/zl)。
-
 > ### 服务器卡顿和我的屏幕帧率有关吗？
 
 大量事实证明，游戏的帧率 (FPS) 不影响 TPS, 电脑的图形性能不会影响到游戏机制。
