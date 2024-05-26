@@ -21,15 +21,7 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "百科", link: "/intro" },
-      {
-        text: "生电",
-        items: [
-          { text: "介绍", link: "/生电/index" },
-          { text: "规则", link: "/生电/rule" },
-          { text: "安全", link: "/生电/security" },
-          { text: "命令", link: "/生电/command" },
-        ],
-      },
+
       { text: "更新日志", link: "/update" },
       { text: "博客", link: "/blog/index" },
       {
@@ -40,6 +32,15 @@ export default defineConfig({
           { text: "隐私政策", link: "/about/privacy-policy" },
           { text: "免责声明", link: "/about/disclaimers" },
           { text: "联系我们", link: "/about/contact" },
+        ],
+      },      
+      {
+        text: "生电",
+        items: [
+          { text: "介绍", link: "/生电/index" },
+          { text: "规则", link: "/生电/rule" },
+          { text: "安全", link: "/生电/security" },
+          { text: "命令", link: "/生电/command" },
         ],
       },
     ],
