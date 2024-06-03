@@ -22,26 +22,6 @@ const coreMembers = [
     actionText: '捐赠'
   },
   {
-    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3603866430&spec=100',
-    name: 'HaiTang_Game',
-    title: '界面设计|策划',
-    links: [
-      { icon: 'github', link: 'https://github.com/haitang000' }
-    ],
-    sponsor: 'https://afdian.net/a/haitang_HTUI',
-    actionText: '捐赠'
-  },  
-  {
-    avatar: 'https://github.com/liuzhen9320.png',
-    name: 'liuzhen932',
-    title: '运维',
-    links: [
-      { icon: 'github', link: 'https://github.com/liuzhen9320' }
-    ],
-    sponsor: 'https://afdian.net/a/hackpig520',
-    actionText: '捐赠'
-  },
-  {
     avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=869379440&spec=100',
     name: 'Linye_FL',
     links: [
@@ -49,16 +29,6 @@ const coreMembers = [
     ],
     title: '建筑 | 策划'
   },
-  {
-    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=2289836651&spec=100',
-    name: 'xiaohuang112',
-    title: '建筑|理事'
-  },
-  {
-    avatar: 'https://q.qlogo.cn/headimg_dl?dst_uin=3854665503&spec=100',
-    name: 'Ryan100C',
-    title: '建筑'
-  }
 ]
 
 const partners = [
