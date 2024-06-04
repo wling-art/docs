@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: '钟乐 Wiki'
+  name: '白叶 Wiki'
   tagline: 感谢每一位玩家的到来💡
   image:
     src: /logo.svg
-    alt: 钟乐 Logo
+    alt: 白叶 Logo
   actions:
     - theme: brand
       text: 开始教程罢~🤔
