@@ -4,7 +4,7 @@ import pkg from '../../package.json'
 
 export default defineConfig({
   lang: "zh-CN",
-  title: "钟乐 Wiki",
+  title: "白叶 Wiki",
   description: "感谢每一位玩家的到来💡",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
