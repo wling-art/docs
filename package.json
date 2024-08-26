@@ -13,7 +13,7 @@
   "author": "",
   "license": "WTFPL",
   "devDependencies": {
-    "vitepress": "1.3.2"
+    "vitepress": "1.3.4"
   },
   "pnpm": {
     "peerDependencyRules": {
